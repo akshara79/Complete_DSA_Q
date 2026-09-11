@@ -32,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3467-transform-array-by-parity](https://github.com/akshara79/Complete_DSA_Q/tree/master/3467-transform-array-by-parity) |
+## String
+|  |
+| ------- |
+| [2710-remove-trailing-zeros-from-a-string](https://github.com/akshara79/Complete_DSA_Q/tree/master/2710-remove-trailing-zeros-from-a-string) |
 <!---LeetCode Topics End-->
