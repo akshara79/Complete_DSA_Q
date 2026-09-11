@@ -19,8 +19,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/akshara79/Complete_DSA_Q/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/akshara79/Complete_DSA_Q/tree/master/0136-single-number) |
+| [3467-transform-array-by-parity](https://github.com/akshara79/Complete_DSA_Q/tree/master/3467-transform-array-by-parity) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/akshara79/Complete_DSA_Q/tree/master/0136-single-number) |
+## Sorting
+|  |
+| ------- |
+| [3467-transform-array-by-parity](https://github.com/akshara79/Complete_DSA_Q/tree/master/3467-transform-array-by-parity) |
+## Counting
+|  |
+| ------- |
+| [3467-transform-array-by-parity](https://github.com/akshara79/Complete_DSA_Q/tree/master/3467-transform-array-by-parity) |
 <!---LeetCode Topics End-->
