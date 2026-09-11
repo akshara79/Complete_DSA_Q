@@ -18,4 +18,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/akshara79/Complete_DSA_Q/tree/master/0001-two-sum) |
+| [0136-single-number](https://github.com/akshara79/Complete_DSA_Q/tree/master/0136-single-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/akshara79/Complete_DSA_Q/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
