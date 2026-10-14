@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/akshara79/Complete_DSA_Q/tree/master/0007-reverse-integer) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/akshara79/Complete_DSA_Q/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -101,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/akshara79/Complete_DSA_Q/tree/master/0098-validate-binary-search-tree) |
+## Greedy
+|  |
+| ------- |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/akshara79/Complete_DSA_Q/tree/master/3723-maximize-sum-of-squares-of-digits) |
 <!---LeetCode Topics End-->
